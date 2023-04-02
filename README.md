@@ -21,6 +21,7 @@ Code developed during the course of <a href="https://frontendmasters.com/courses
 <ul>
 <li><a href="https://react.dev/">React</a></li>
 <li><a href="https://reactrouter.com/en/main">React Router Dom</a></li>
+<li><a href="https://tanstack.com/query/v3/">React Query</a></li>
 <li><a href="https://vitejs.dev/">Vite</a></li>
 <li><a href="https://eslint.org/">Eslint</a></li>
 <li><a href="https://prettier.io/">Prettier</a></li>
